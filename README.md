@@ -1,5 +1,5 @@
-# Reducing-Network-Agnostophobia
-Modified vesrion of Reducing-Network-Agnostophobia
+# Reducing-Network-Agnostophobia-Center-Loss
+Modified vesrion of Reducing-Network-Agnostophobia by adding Center Loss
 
 
 
