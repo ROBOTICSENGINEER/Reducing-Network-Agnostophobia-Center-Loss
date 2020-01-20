@@ -1,0 +1,10 @@
+Folders:
+Reducing-Network-Agnostophobia/datasets/cifar-10-batches-py/
+Reducing-Network-Agnostophobia/datasets/MNIST/
+Reducing-Network-Agnostophobia/datasets/MNIST_Letters/EMNIST_Binary_files/
+
+
+Datasets:
+cifar-10-batches-py
+MNIST
+emnist-letters
